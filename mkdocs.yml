@@ -1,0 +1,21 @@
+site_name: 计算生物/生物信息PhD申请指北
+theme:
+  name: material
+  language: zh
+  palette:
+
+    # Toggle light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+    # Toggle dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
