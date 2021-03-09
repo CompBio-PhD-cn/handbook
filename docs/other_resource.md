@@ -14,7 +14,7 @@
 
 * 来自 HHMI 的 [Writing a Letter of Recommendation](https://www.bu.edu/best/files/2015/04/Writing-a-Letter-of-Recommendation-HowardHugues.pdf)
 * 布朗 CS Professor Shriram Krishnamurthi: [Advice to Graduate School Recommendation Letter Writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
-* UW CS professor Michael Ernst: [How to write a letter of recommendation](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
+* UW CS Professor Michael Ernst: [How to write a letter of recommendation](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
 
 
 ## 申请经验
