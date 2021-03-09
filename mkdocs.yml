@@ -6,8 +6,8 @@ theme:
 
     # Toggle light mode
     - scheme: default
-      primary: orange
-      accent: orange
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
