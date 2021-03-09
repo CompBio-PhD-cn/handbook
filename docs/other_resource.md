@@ -6,11 +6,12 @@
 
 * Philip Guo: [A Five-Minute Guide to Ph.D. Program Applications](https://pg.ucsd.edu/PhD-application-tips.htm)
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
+* [Ph.D. Applications:  FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/mobilebasic)
 
 
 ## 推荐信相关
 
-* https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/mobilebasic
+
 * 来自 HHMI 的 [Writing a Letter of Recommendation](https://www.bu.edu/best/files/2015/04/Writing-a-Letter-of-Recommendation-HowardHugues.pdf)
 * 布朗 CS Professor Shriram Krishnamurthi: [Advice to Graduate School Recommendation Letter Writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 * UW CS professor Michael Ernst: [How to write a letter of recommendation](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
