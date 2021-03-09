@@ -3,6 +3,7 @@
 ## Admission Process
 可以通过以下资料了解一下录取过程，教授是怎么review材料的，committee大概是怎么工作的。
 
+
 * Philip Guo: [A Five-Minute Guide to Ph.D. Program Applications](https://pg.ucsd.edu/PhD-application-tips.htm)
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
