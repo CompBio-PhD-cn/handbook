@@ -21,8 +21,7 @@ theme:
         name: Switch to dark mode
 
 nav:
-  - 致读者: preface.md
-  - Overview: index.md
+  - 致读者: index.md
   - 申请前准备: Preparation.md
   - 项目介绍与选校建议: Program_list.md
   - 文书: PS_CV.md
