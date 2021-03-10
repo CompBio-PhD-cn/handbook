@@ -12,4 +12,11 @@ CV
 PS
 
 以下是一些 PS 的参考资料
+
+* 
+* 网络上搜集的 PS/SOP samples 
+* [Broad Guideline](https://mitcommlab.mit.edu/broad/commkit/graduate-school-personal-statement/)
+* [Stanford Guideline](https://ed.stanford.edu/sites/default/files/statement-of-purpose_u.d_2013.pdf)
+* [UCLA Guideline](https://grad.ucla.edu/asis/agep/advsopstem.pdf)
+* [MIT SOP Guideline](https://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf)
 * 
