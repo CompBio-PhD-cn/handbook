@@ -26,10 +26,28 @@
 
 ### 选校以及申请结果
 
-结果标一下面试，offer就行。
-
 | 学校 | 项目 | 结果 |
-| --- | ----------- |----|
-| XXX | YYY | offer |
-| XXX | YYY | interview |
-| XXX | YYY | - |
+|:-: | :-: | :-:|
+| Yale   | BBS-CBB| Offer  |
+| UW   | CSE | Offer  |
+| CMU  | CPCB | Offer  |
+| Stanford  | Genetics | Interview |
+| Caltech   | Biology | short interview  |
+| Columbia |system biology | interview  |
+| Upenn  | GCB| interview  |
+| MIT  | EECS | interview  |
+| Cambridge   | CCAIM | interview  |
+| Tri-institute | CBM | -|
+| UCLA | bioinformatics | -|
+| EMBL-EBI | Bioinformatics | - |
+| UW |  genome science  | - |
+| Cambridge  | Sanger  | - |
+| Harvard  | BIG  | - |
+| Princeton  | QCB | - |
+| MIT  | CSB  | - |
+| JHU  | BME  | - |
+
+
+
+## 知乎回答
+稍微放一些之前 follow 的知乎回答，可能不限于 compBio，Bio相关的都放进来了。
