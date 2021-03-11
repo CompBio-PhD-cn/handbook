@@ -32,5 +32,5 @@
     * [2020 Fall 你都申请了哪些学校的 MA/MS/PhD/JD/MD/MFA，录取结果如何？](https://www.zhihu.com/question/318624725/answer/901732873)
 * [The Gradcafe result](https://www.thegradcafe.com/survey/index.php) 可以看到别人 submit 的结果，包括什么时候面试通知，什么时候发 offer/reject。（搜索历史数据可以对录取进度有个大致的预期）
 * [The Gradcafe forum - Biology](https://forum.thegradcafe.com/forum/29-biology/) 论坛版块，有往年的讨论帖子，可以看到一些讨论(乱杀大佬)，但是对中国学生意义不大，大部分都是美国学生。
-    * [20202 Computational Biology/Bioinformatics/Systems Biology PhD Admissions](https://forum.thegradcafe.com/topic/)120681-2020-computational-biologybioinformaticssystems-biology-phd-admissions/)
+    * [20202 Computational Biology/Bioinformatics/Systems Biology PhD Admissions](https://forum.thegradcafe.com/topic/120681-2020-computational-biologybioinformaticssystems-biology-phd-admissions/)
     * [2021 Computational Biology/Bioinformatics/Systems Biology PhD Admissions](https://forum.thegradcafe.com/topic/125918-2021-computational-biologybioinformaticssystems-biology-phd-admissions/#comments)
