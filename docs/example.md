@@ -63,6 +63,10 @@
 * [国内不知名本科药学，KAUST MS-PhD（可以拿ms学位走的那种）bioinformatics and machine learning，另有一个美CS硕士在读（在申请时啥也没有所以没啥用）。科研经历比较丰富](https://www.zhihu.com/question/357928233/answer/1733084382)
 * [本科 Rice BIOE (GPA: 3.99/4) GRE:330做了4年research 第一段做的biomaterial 两篇一座在投 一篇在arxiv上; 第二段synthetic biology 一篇 CNS level 共一 in preparation](https://www.zhihu.com/question/357928233/answer/1607767525)
 * [基本资料：国内双非本科2017届毕业，生物信息方向，GPA 3.4/4.0；语言：99(s 24)；无GRE成绩；四年科研经历，目前在美国做bioinformatics programmer；发表文章目前十篇，两篇一作；去年(2020)在本研究方向顶会oral presentation。](https://www.zhihu.com/question/357928233/answer/1722266913)
+* [背景：美本 CS & Math 美硕在大H 一个交叉学科，GRE 335 GPA一般 托福过期了 为了cmu搞了个duolingo，主要申请CS PhD，方向ML，Graph ML，ML+Biomedicine](https://www.zhihu.com/question/357928233/answer/1196624190)
+* [清华本科Biological Science，GPA 3.77/4，排名在前20%，专业课GPA3.92/4，入选学堂班（一个科研导向的本科生组织，有奖学金和科研经费支持）](https://www.zhihu.com/question/357928233/answer/1592694477)
+* [Top2 Bio+CS，GPA 一般，T刚过线（口语垃圾）没考G, MSRA ML 实习，一篇期刊小文章共一 ，两次暑研（Yale，UW）都没 pub](https://www.zhihu.com/question/357928233/answer/1611075908)
+* [](https://www.zhihu.com/question/357928233/answer/1720784205)
 
 [](https://www.zhihu.com/question/357928233/answer/1708518118)
 
