@@ -66,7 +66,14 @@
 * [背景：美本 CS & Math 美硕在大H 一个交叉学科，GRE 335 GPA一般 托福过期了 为了cmu搞了个duolingo，主要申请CS PhD，方向ML，Graph ML，ML+Biomedicine](https://www.zhihu.com/question/357928233/answer/1196624190)
 * [清华本科Biological Science，GPA 3.77/4，排名在前20%，专业课GPA3.92/4，入选学堂班（一个科研导向的本科生组织，有奖学金和科研经费支持）](https://www.zhihu.com/question/357928233/answer/1592694477)
 * [Top2 Bio+CS，GPA 一般，T刚过线（口语垃圾）没考G, MSRA ML 实习，一篇期刊小文章共一 ，两次暑研（Yale，UW）都没 pub](https://www.zhihu.com/question/357928233/answer/1611075908)
+* [CV：我目前是美本top50文理学院LAC（当时去的一部分原因是因为全奖如果有同学疑惑的话）生物化学biochem (Honor degree in progress)和神经科学neuroscience双专业大四在读 Cumulative GPA 3.68 两个专业GPA都是3.7+](https://www.zhihu.com/question/357928233/answer/1758373159)
+* [本科SJTU医学检验，成绩大概86/100具体记不清总之一般（top20%），最后一年top5%, Master在JHU公卫 BMB，GPA 3.94/4.0](https://www.zhihu.com/question/357928233/answer/1624202195)
+* [Top2，生物科学专业，学堂班。GPA前10%，托福过线，GRE未考，无publication。](https://www.zhihu.com/question/357928233/answer/1676772922)
+* [背景: 华五 gap year 选手, Bio出身, GPA 3.7+, 托福100+，GRE 153+170+3.5](https://www.zhihu.com/question/357928233/answer/1707714182)
+* [PKU本硕，绩点只有3.78，托福106，gre334+4，一作sci六篇，发明专利在申请三项，其他论文会议若干，两年国奖](https://www.zhihu.com/question/357928233/answer/1635142184)
+* [专业生科，top2，做的方向是肿瘤免疫，申请的项目是Immunology或者Bioengineering或者其他生物相关项目。](https://www.zhihu.com/question/357928233/answer/1680252009)
+* [坐标SJTU，本科生物信息，主申美国compbio Ph.D. GPA：连续三年第一，1/25，91+/100，advanced GPA：93+/100，WES GPA：3.9;TOEFL：100+ GRE：321+4,科研：一段校内湿实验滑水，大二暑假UofT，大三下远程Yale打工](https://www.zhihu.com/question/357928233/answer/1468122320)
+* [](https://www.zhihu.com/question/357928233/answer/1626523958)
 * [](https://www.zhihu.com/question/357928233/answer/1720784205)
-
-[](https://www.zhihu.com/question/357928233/answer/1708518118)
+* [](https://www.zhihu.com/question/357928233/answer/1708518118)
 
