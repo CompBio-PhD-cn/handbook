@@ -24,12 +24,12 @@
 * [PKU本硕，绩点只有3.78，托福106，gre334+4，一作sci六篇，发明专利在申请三项，其他论文会议若干，两年国奖](https://www.zhihu.com/question/357928233/answer/1635142184)
 * [专业生科，top2，做的方向是肿瘤免疫，申请的项目是Immunology或者Bioengineering或者其他生物相关项目。](https://www.zhihu.com/question/357928233/answer/1680252009)
 * [坐标SJTU，本科生物信息，主申美国compbio Ph.D. GPA：连续三年第一，1/25，91+/100，advanced GPA：93+/100，WES GPA：3.9;TOEFL：100+ GRE：321+4,科研：一段校内湿实验滑水，大二暑假UofT，大三下远程Yale打工](https://www.zhihu.com/question/357928233/answer/1468122320)
-* [](https://www.zhihu.com/question/357928233/answer/1626523958)
-* [](https://www.zhihu.com/question/357928233/answer/1720784205)
-* [](https://www.zhihu.com/question/357928233/answer/1708518118)
+* [清本化学生物学。数据科学辅修。](https://www.zhihu.com/question/357928233/answer/1626523958)
+* [美本，生物工程/数学，申请 Bio/ BioE](https://www.zhihu.com/question/357928233/answer/1720784205)
+* [美本 Lac，RA，申 Bio/Biomedical ](https://www.zhihu.com/question/357928233/answer/1708518118)
 
 
-## Case 1 
+<!-- ## Case 1 
 
 ### 背景
 1. 教育背景
@@ -74,6 +74,6 @@
 | Harvard  | BIG  | - |
 | Princeton  | QCB | - |
 | MIT  | CSB  | - |
-| JHU  | BME  | - |
+| JHU  | BME  | - | -->
 
 
