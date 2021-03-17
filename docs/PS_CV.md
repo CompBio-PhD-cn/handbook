@@ -13,13 +13,16 @@
  
 ## PS
 
-PS 最重要的大概是尽量串联自己的科研经历，然后一定要记住，没人 care 你童年怎么想的，那些神奇的故事真没什么意义，请直接一点， 记住 PS = research + research + research! 过去的research，以后想做的 research ，对 research 的想法，这基本就是 PS 的全部了。
+PS 最重要的大概是尽量串联自己的科研经历，然后一定要记住，没人 care 你童年怎么想的，那些神奇的故事真没什么意义，请直接一点， 记住 PS = research + research + research! 过去的research，以后想做的 research ，对 research 的想法，这基本就是 PS 的全部了。（虽然其实笔者的写的挺烂的，似乎也没什么太大的影响。）
 
 以下是一些 PS 的参考资料（之后继续补充）
 
 
-* 网络上搜集的 PS/SOP samples 
+
 * [Broad Guideline](https://mitcommlab.mit.edu/broad/commkit/graduate-school-personal-statement/)
 * [Stanford Guideline](https://ed.stanford.edu/sites/default/files/statement-of-purpose_u.d_2013.pdf)
 * [UCLA Guideline](https://grad.ucla.edu/asis/agep/advsopstem.pdf)
 * [MIT SOP Guideline](https://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf)
+* [网络上搜集的 PS/SOP samples](https://github.com/CompBio-PhD-cn/handbook/tree/main/files/samples)
+
+未完待续。。。
