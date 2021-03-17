@@ -27,6 +27,7 @@
 * [清本化学生物学。数据科学辅修。](https://www.zhihu.com/question/357928233/answer/1626523958)
 * [美本，生物工程/数学，申请 Bio/ BioE](https://www.zhihu.com/question/357928233/answer/1720784205)
 * [美本 Lac，RA，申 Bio/Biomedical ](https://www.zhihu.com/question/357928233/answer/1708518118)
+* [中游985 major stat minor AI, GPA：90+, T: 103(s22), 半转专业申请 biostat/bioinfo/compu bio 主申phd也申ms](https://www.zhihu.com/question/357928233/answer/1449536615)
 
 
 <!-- ## Case 1 
