@@ -1,6 +1,6 @@
 # 序：致读者
 
-本手册的编写是受到[脑科学的同学们编写的手册]((https://brainphd-cn.github.io/handbook/))的启发。
+本手册的编写是受到[脑科学的同学们编写的手册](https://brainphd-cn.github.io/handbook/)的启发。
 
 本手册的目的是帮助同学们尽可能多的了解申请的相关信息，明白如果要继续学术应该做哪些准备。
 
