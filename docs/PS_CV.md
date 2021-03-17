@@ -18,7 +18,6 @@ PS 最重要的大概是尽量串联自己的科研经历，然后一定要记�
 以下是一些 PS 的参考资料（之后继续补充）
 
 
-
 * [Broad Guideline](https://mitcommlab.mit.edu/broad/commkit/graduate-school-personal-statement/)
 * [Stanford Guideline](https://ed.stanford.edu/sites/default/files/statement-of-purpose_u.d_2013.pdf)
 * [UCLA Guideline](https://grad.ucla.edu/asis/agep/advsopstem.pdf)
