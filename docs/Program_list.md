@@ -17,18 +17,19 @@
 ### 个人建议和项目评价
 就我个人的申请体验而言，我觉得如果是偏 CS 的 CompBio，大概申请难度是 CS program < Umbrella Program < Independent Program。 CS 大部分项目似乎没有国际生 funding 限制，所以国际生比例不小，但是某些 medical school 下面的项目对于国际生的招收就有很强的限制，可能一年就没有几个名额，下面列举一些我知道的项目。
 
-| 学校 | 项目 | 评价 |
+| 学校 | 项目 | 评价 | 
 | --- | ----------- |----|
-| UW | Genome science | 比较偏爱湿实验背景的学生，而且招收国际生非常非常少，据我所知最近几年中国学生被录的背景非常夸张（RA多年 citation 2k+），基本等于送钱项目了 |
+| UW | Genome science | 比较偏爱湿实验背景的学生，而且招收国际生非常非常少，据我所知最近几年中国学生被录的背景非常夸张（RA多年 citation 2k+），基本等于送钱项目了 | 
 | Stanford | BMI | 招收国际生极少极少，没有 external funding 基本不要抱有太大希望，纯纯的彩票 |
 | MIT | CSB | 非常竞争激烈的项目，大陆本科基本没有直接申请到的，也算是纯纯的彩票了，而且给我的感觉更偏 system biology？（不确定） |
 | Upenn | GCB | 国际生非常少，一年就一两个入学的，而且要注意的是分开时间发面试，oversea 的学生是分开的，今年(2021Fall)据说是 3-4 个面试，可想而知竞争激烈程度（而且没有 WL ，所以很想去的话强烈建议面完表露一下非常想去的愿望） |
-| Stanford | Genetics | 国际生也非常非常少，就发三个 offer，目前还没大陆学生录取，非常难的项目，但是据说面试每年都会有大陆的学生，今年(2021Fall)算是最少了，就一位 |
+| Stanford | Genetics | 国际生也非常非常少，就发三个 offer，目前还没大陆学生录取，非常难的项目，但是据说面试每年都会有大陆的学生，今年(2021Fall)算是最少了，就一位|
 | UCLA | Bioinformatics | 据说最好先套磁一下？感觉今年(2021Fall)挺多纸面背景挺强的 application 都没拿到面试的 |
 | Columbia | System Biology | 对华人比较友好，基本每年都有几个陆本面试 |
-| --- | --- | - |
-| --- | --- | - |
-
+| Umich  | PIBS | 十二月告知有面试，二月初两个老师发email来约面试（两天内），面试结果一星期就出来了，国际生名额少，喜欢有connection选手以及Paper很多的选手。 |
+| WashU 
+| DBBS | 二月初告知有面试，自己选8～10个POI，是 open day一整天4*30min的面试，上午/下午各两场。由于人不在美国，通宵四场太累，成功申请单独面试。面试最后是四个老师分别来约时间的，老师都很nice，感觉对国际生比较友好。 |
+|USC  | Bioinformatics |  一月中告知有面试，自己选POI，但是分配的不一定是你的POI。面试open day，然后实际上是2*20min的面试，面试很轻松，对国际学生友好。 |
 
 ## 项目List
 
@@ -43,6 +44,8 @@
 * Stanford Biology - genetics
 * Yale BBS-CBB
 * Columbia - System Biology
+* Umich PIBS 
+
 
 #### Independent Program
 独立的小项目大概是 focus 在计算，所以招生的人数都会更少一些，而且竞争也会更激烈一些。
@@ -54,6 +57,9 @@
 * Stanford Biomedical Informatics
 * CMU CPCB
 * UCLA Bioinformatics
+* WUSTL DBBS
+* USC Bioinformatics 
+
 
 #### CS Program
 其实也是大项目下面的 compbio track，但区别大概是 CS 项目下的，一般会认为 CS 竞争爆炸，但就我的体验而言我觉得反而还好，只要纸面实力过了，可能反而比 BBS 类似的大项目容易申请，建议 CS 背景的同学可以多申请一些。
