@@ -61,6 +61,7 @@
 
 
 #### CS Program
+
 其实也是大项目下面的 compbio track，但区别大概是 CS 项目下的，一般会认为 CS 竞争爆炸，但就我的体验而言我觉得反而还好，只要纸面实力过了，可能反而比 BBS 类似的大项目容易申请，建议 CS 背景的同学可以多申请一些。
 
 * MIT EECS
@@ -70,4 +71,6 @@
 
 ### 英国欧洲
 
+* Cambridge Sanger 
+* EMBL-EBI
 

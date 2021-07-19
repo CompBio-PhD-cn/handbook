@@ -10,7 +10,6 @@
 
 ## 阅读建议
 
-
 1. 先大致浏览看完这个手册，了解申请的大概流程，查看[其他资源中的 admission process](https://compbio-phd-cn.github.io/handbook/other_resource/) 相关的信息
 2. 选校时着重看[选校](https://compbio-phd-cn.github.io/handbook/Program_list/)这个section，了解各大项目的特点（招不招国际生，需不需要套磁等），找自己感兴趣的 Lab
 3. 通过[申请论坛/经验](https://compbio-phd-cn.github.io/handbook/other_resource/)，[案例](https://compbio-phd-cn.github.io/handbook/example/)来大概对项目录取难度有一个认识，然后确定选校。
