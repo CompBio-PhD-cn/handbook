@@ -27,12 +27,44 @@ CS 相关的项目不一定有面试，直接根据申请材料发 offer 还是�
 * 面试中一定要表现的热情，积极一点，老师问你有什么问题想问，一定要多准备点问题，一定一定！！（笔者就因为这个有点尴尬）
 * 面试完可以发一下感谢信，表面自己是真的想去的，不会让对方觉得你敷衍，发感谢信至少没任何坏处（也是笔者的最大教训之一）
 
-针对这个环节
+### 常见问题
 
+一般的面试主要是三步： 寒暄-> research/Project -> 闲聊
+
+下面列举一些常见的问题，最好在面试前都写一遍答案
+* 最开始的：自我介绍
+  * 不是每个老师都记得学生的申请材料，所以还是要在自我介绍的时候简单的突出一下自己的优势。
+* 说一下 project
+  * 大部分老师不会指定project，所以一般主动权在学生，自己挑选一个（对方可能会觉得）最有意思的 project。
+  * 所有 project 准备长短两个版本（长的 20min左右, 短的5-10min左右），有些老师听完主要 project 之后还会问其他的 project，此时就比较简短的突出主要内容即可。
+  * project 中间的问题就是围绕具体 project 了，自己做好准备即可。
+* future research
+  * 如实说明即可，但要注意要和 PS 上的保持一致，尽量可以 Cue 一下对方学校感兴趣的老师，以此表示是真的了解对方学校，是感兴趣的。可以加一些对未来方向的展望，以此说明对领域的了解。
+* Career goal
+* Why XXX? What's the unique advantage?
+  * 有些老师会问，为什么来我们学校，要准备一下，如果可以的话，不要太套话，不要每个学校都适用那种（笔者就吃过亏，太尴尬了，被指出没有提到 unique 的地方）
+* Do you have any other question to ask?
+  * 常见的可以问最近在做的方向（虽然一般老师自己都会说）
+  * 什么时候知道结果
+  * 科研方向非常 match 的话也可以问问老师对科研问题的看法
+  * How about the life in XXXX?
+  * What's your favorite part of XXX?
+  * What do you think the most important ability  for a PhD student?
+  * How to choose a graduate PhD program? 
+  * What's your advising style?
+  * About the funding source
+* 为什么想做计算生物？
+
+### Related links
+
+一些可能有用的链接
+* [哥大某清华毕业的AP年轻时分享的面试经历](http://www.360doc.com/content/14/0825/16/19076531_404530773.shtml)
+* [JHU BME AP Jean Fan 分享的面试tips](https://jean.fan/2021/12/29/acing-your-academic-interview.html)
+* 还有就是案例中大家的回答，有各自的一些体会，感觉可以的话还是尽量刷完的，花不了多少时间。
 <!-- 【申请分享】真的不忍心看到大家倒在最后一关——英美PhD面试个人经验 - 皓月当空的文章 - 知乎
 https://zhuanlan.zhihu.com/p/100000212 -->
 
-## 面试信息
+<!-- ## 面试信息
 
-笔者以及群友们稍微汇总了一下项目的面试信息，大概的流程之类的。
+笔者以及群友们稍微汇总了一下项目的面试信息，大概的流程之类的。 -->
 
