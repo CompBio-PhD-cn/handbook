@@ -59,9 +59,12 @@ CS 相关的项目不一定有面试，直接根据申请材料发 offer 还是�
 ### Related links
 
 一些可能有用的链接
+
 * [哥大某清华毕业的AP年轻时分享的面试经历](http://www.360doc.com/content/14/0825/16/19076531_404530773.shtml)
 * [JHU BME AP Jean Fan 分享的面试tips](https://jean.fan/2021/12/29/acing-your-academic-interview.html)
-* 还有就是案例中大家的回答，有各自的一些体会，感觉可以的话还是尽量刷完的，花不了多少时间。
+* 还有就是案例中大家的回答，有各自的一些体会，感觉可以的话还是尽量刷完的，花不了多少时间。  
+
+
 <!-- 【申请分享】真的不忍心看到大家倒在最后一关——英美PhD面试个人经验 - 皓月当空的文章 - 知乎
 https://zhuanlan.zhihu.com/p/100000212 -->
 
