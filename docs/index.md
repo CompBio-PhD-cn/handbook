@@ -19,4 +19,4 @@
 
 
 
-希望这本手册能够给广大同学带来一些帮助。 
+希望这本手册能够给广大同学带来一些帮助。 （觉得有帮助也可以给 [repo](https://github.com/CompBio-PhD-cn/handbook) 一个star）
