@@ -36,6 +36,7 @@
 * [本科 Rice BIOE (GPA: 3.99/4) GRE:330做了4年research 第一段做的biomaterial 两篇一座在投 一篇在arxiv上; 第二段synthetic biology 一篇 CNS level 共一 in preparation](https://www.zhihu.com/question/357928233/answer/1607767525)
 * [国内双非本科2017届毕业，生物信息方向，GPA 3.4/4.0；语言：99(s 24)；无GRE成绩；四年科研经历，目前在美国做 bioinformatics programmer；发表文章目前十篇，两篇一作；去年(2020)在本研究方向顶会oral presentation。](https://www.zhihu.com/question/357928233/answer/1722266913)
 * [国内不知名本科药学，KAUST MS-PhD（可以拿ms学位走的那种）bioinformatics and machine learning，另有一个美CS硕士在读（在申请时啥也没有所以没啥用）。科研经历比较丰富](https://www.zhihu.com/question/357928233/answer/1733084382)
+* [本科中外合作办学，cs/stat混申，gpa 3.9/4.0, 语言toefl 107 (s23), gre 330+4; 多个科研经历，两篇文章](https://www.zhihu.com/question/379814619/answer/2505695450)
 
 
 <!-- ## Case 1 
